@@ -1,17 +1,13 @@
 ## Hi there 👋
 
 
-**jagapathi20/jagapathi20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on end-to-end machine learning project
 - 🌱 I’m currently learning CI/CD pipelines, cloud deployment, Database Integration
 - 👯 I’m looking to collaborate on ML projects
 - 📫 How to reach me: https://www.linkedin.com/in/jagapathi-mallepula/
 # Hi there, I'm Jagapathi! 👋
 
-**AI Engineer & Deep Learning Enthusiast** 🚀
+**ML Engineer & Deep Learning Enthusiast** 🚀
 
 I'm passionate about building intelligent systems that push the boundaries of what's possible with machine learning. From neural networks built from scratch to state-of-the-art fine-tuning techniques, I love exploring the full spectrum of AI development.
 
@@ -60,9 +56,9 @@ I'm passionate about building intelligent systems that push the boundaries of wh
 - Statistical Analysis, Feature Engineering
 
 **Programming & Tools**
-- **Languages**: Python, CUDA, SQL
-- **MLOps**: Weights & Biases, Model Versioning
-- **Cloud**: Google Colab, GPU Computing
+- **Languages**: Python, C/C++, SQL
+- **MLOps**: Weights & Biases, MLflow
+- **Cloud**: Google Colab, AWS
 - **Libraries**: NumPy, Pandas, scikit-learn, OpenCV
 
 
