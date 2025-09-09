@@ -65,12 +65,6 @@ I'm passionate about building intelligent systems that push the boundaries of wh
 - **Cloud**: Google Colab, GPU Computing
 - **Libraries**: NumPy, Pandas, scikit-learn, OpenCV
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jagapathi20&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jagapathi20&layout=compact&theme=radical&hide_border=true)
-
-
 
 ## 🌟 Highlights
 
