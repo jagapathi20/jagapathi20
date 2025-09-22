@@ -1,17 +1,24 @@
 ## Hi there 👋
-
-
-- 🔭 I’m currently working on end-to-end machine learning project
-- 🌱 I’m currently learning CI/CD pipelines, cloud deployment, Database Integration
-- 👯 I’m looking to collaborate on ML projects
+- 🔭 I'm currently working on end-to-end machine learning project
+- 🌱 I'm currently learning CI/CD pipelines, cloud deployment, Database Integration
+- 👯 I'm looking to collaborate on ML projects
 - 📫 How to reach me: https://www.linkedin.com/in/jagapathi-mallepula/
-# Hi there, I'm Jagapathi! 👋
 
+# Hi there, I'm Jagapathi! 👋
 **ML Engineer & Deep Learning Enthusiast** 🚀
 
 I'm passionate about building intelligent systems that push the boundaries of what's possible with machine learning. From neural networks built from scratch to state-of-the-art fine-tuning techniques, I love exploring the full spectrum of AI development.
 
 ## 🔥 Featured Projects
+
+### 🎨 [ConditionalUNet Polygon Coloring](https://github.com/jagapathi20/unet-web-app)
+**End-to-End ML System: From Training to Production**
+- **Full-Stack ML Application**: Custom UNet model with FastAPI backend and modern web interface
+- **Production Deployment**: Containerized with Docker, deployed on AWS EC2, frontend on Netlify
+- **Custom Architecture**: Built PyTorch UNet from scratch with color conditioning for polygon coloring
+- **Complete Pipeline**: Training ([repo](https://github.com/jagapathi20/ConditionalUNet)), model serving, and web deployment
+- **Live Demo**: [ConditionalUNet App](https://conditionalunet.netlify.app)
+- **Tech Stack**: PyTorch, FastAPI, Docker, AWS EC2, Netlify, JavaScript
 
 ### 🎨 [ConditionalUNet](https://github.com/jagapathi20/ConditionalUNet)
 **Conditional Image Generation with UNet Architecture**
@@ -49,27 +56,25 @@ I'm passionate about building intelligent systems that push the boundaries of wh
 - Computer Vision, NLP, Generative Models
 - Fine-tuning, LoRA, Quantization Techniques
 
-**Machine Learning**
+**Machine Learning & MLOps**
 - Supervised/Unsupervised Learning, Model Optimization
 - Vector Databases, Retrieval Systems
 - AutoML, Hyperparameter Tuning
-- Statistical Analysis, Feature Engineering
+- Model Deployment, API Development, Containerization
 
-**Programming & Tools**
-- **Languages**: Python, C/C++, SQL
-- **MLOps**: Weights & Biases, MLflow
-- **Cloud**: Google Colab, AWS
-- **Libraries**: NumPy, Pandas, scikit-learn, OpenCV
-
+**Programming & Cloud**
+- **Languages**: Python, C/C++, SQL, JavaScript
+- **MLOps**: Weights & Biases, MLflow, Docker
+- **Cloud**: AWS EC2, Google Colab, Netlify
+- **Libraries**: NumPy, Pandas, scikit-learn, OpenCV, FastAPI
 
 ## 🌟 Highlights
 
-- **4+ Major Projects** spanning Computer Vision, NLP, and Deep Learning
+- **5+ Major Projects** spanning Computer Vision, NLP, and Full-Stack ML Applications
+- **End-to-End ML Systems**: From model training to production deployment with modern web interfaces
 - **Educational Focus**: Creating implementations that help others learn AI fundamentals
+- **Production Experience**: Containerized deployments, cloud infrastructure, and API development
 - **Performance Optimization**: Specializing in efficient training and inference techniques
-- **End-to-End Solutions**: From data preprocessing to production-ready models
-
-
 
 ---
 
