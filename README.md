@@ -11,7 +11,7 @@ I'm passionate about building intelligent systems that push the boundaries of wh
 
 ## 🔥 Featured Projects
 
-### 🎨 [ConditionalUNet Polygon Coloring](https://github.com/jagapathi20/unet-web-app)
+### 🎨 [ConditionalUNet Polygon Coloring](https://github.com/jagapathi20/ConditionalUNet_web_app)
 **End-to-End ML System: From Training to Production**
 - **Full-Stack ML Application**: Custom UNet model with FastAPI backend and modern web interface
 - **Production Deployment**: Containerized with Docker, deployed on AWS EC2, frontend on Netlify
