@@ -27,6 +27,14 @@ I'm passionate about building intelligent systems that push the boundaries of wh
 - Includes synthetic data generation and comprehensive training pipeline
 - **Tech Stack**: PyTorch, OpenCV, Computer Vision, Conditional GANs
 
+### ⛓️ [DeFi Credit Scoring System](https://github.com/jagapathi20/defi-credit-scoring)
+**Blockchain-Based Creditworthiness Analysis**
+- Built on-chain credit scoring system generating **0-1000 FICO-style scores** from Compound protocol transactions
+- Engineered **20+ behavioral metrics** including liquidation analysis, repayment ratios, asset diversification (Shannon Index), and temporal consistency patterns
+- Implemented multi-source data pipeline with **Etherscan API and Web3 queries** for comprehensive transaction analysis
+- Designed weighted scoring model with 4 components (Behavioral 35%, Risk 25%, Consistency 20%, Health 20%) and sophisticated bot-detection algorithms
+- **Tech Stack**: Python, Web3.py, Etherscan API, Pandas, NumPy, Google Sheets API
+
 ### 🧠 [Micrograd Implementation](https://github.com/jagapathi20/micrograd-implementation)
 **Neural Networks from Scratch with Automatic Differentiation**
 - Complete autograd engine implementation with scalar-valued backward pass
@@ -62,6 +70,11 @@ I'm passionate about building intelligent systems that push the boundaries of wh
 - AutoML, Hyperparameter Tuning
 - Model Deployment, API Development, Containerization
 
+**Blockchain & Web3**
+- Web3.py, Etherscan API Integration
+- On-chain Data Analysis, Smart Contract Interaction
+- DeFi Protocol Analytics
+
 **Programming & Cloud**
 - **Languages**: Python, C/C++, SQL, JavaScript
 - **MLOps**: Weights & Biases, MLflow, Docker
@@ -70,11 +83,12 @@ I'm passionate about building intelligent systems that push the boundaries of wh
 
 ## 🌟 Highlights
 
-- **5+ Major Projects** spanning Computer Vision, NLP, and Full-Stack ML Applications
+- **6+ Major Projects** spanning Computer Vision, NLP, Blockchain Analytics, and Full-Stack ML Applications
 - **End-to-End ML Systems**: From model training to production deployment with modern web interfaces
 - **Educational Focus**: Creating implementations that help others learn AI fundamentals
 - **Production Experience**: Containerized deployments, cloud infrastructure, and API development
 - **Performance Optimization**: Specializing in efficient training and inference techniques
+- **Blockchain Integration**: Building intelligent systems that bridge AI and decentralized finance
 
 ---
 
