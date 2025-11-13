@@ -1,7 +1,5 @@
 <!-- HERO BANNER -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=9A4CFF&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Jagapathi+👋;ML+Engineer+%7C+Deep+Learning+Enthusiast+🚀;I+build+AI+systems+from+scratch+to+production." />
-</p>
+
 
 <p align="center">
   <a href="https://github.com/jagapathi20"><img src="https://img.shields.io/github/followers/jagapathi20?label=Follow&style=social"></a>
