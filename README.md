@@ -44,7 +44,7 @@ Custom conditional UNet with learned color embeddings
 
 # **Technical Skills** 
 
-### **Machine Learning **
+### **Machine Learning**
 • PyTorch • TensorFlow • OpenCV • scikit-learn • Langchain • LangGraph
 ### **Backend**
 FastAPI • Express.js • Node.js • RESTful APIs 
