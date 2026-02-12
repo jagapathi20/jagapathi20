@@ -5,6 +5,17 @@
 
 # **Featured Projects**
 
+###  [YouTube Clone Backend API](https://github.com/jagapathi20/FastAPI-social-media-api)
+ 
+- Scalable Architecture: Engineered a production-grade RESTful API for 40+ endpoints, utilizing Nginx load balancing with least_conn to distribute traffic across horizontal backend instances. 
+- High-Performance Caching: Implemented Redis Cache-Aside strategies and a decoupled view-buffering system with Cron-based synchronization to eliminate database write-locks and minimize latency.
+- Database Optimization: Designed complex MongoDB aggregation pipelines and a Persistent Counter Pattern, optimizing subscriber count retrieval from $O(N)$ to $O(1)$ complexity.
+- Secure Auth & Media: Integrated JWT with token rotation and a scalable file upload system using Multer/Cloudinary to process and store 100+ MB media files.
+- Containerized Deployment: Orchestrated a microservices environment using Docker and Docker Compose to ensure environment parity and seamless horizontal scaling.  
+- **Tech Stack:** Node.js, Express.js, MongoDB, Redis, Nginx, Docker
+
+---
+
 ###  [FastAPI Social Media API](https://github.com/jagapathi20/FastAPI-social-media-api)
 **Production-Ready Backend for Social Platform**  
 - REST API with user auth, posts, and voting  
