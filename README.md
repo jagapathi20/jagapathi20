@@ -5,7 +5,7 @@
 
 # **Featured Projects**
 
-###  [YouTube Clone Backend API](https://github.com/jagapathi20/FastAPI-social-media-api)
+###  [YouTube Clone Backend API](https://github.com/jagapathi20/Youtube-Clone)
  
 - Scalable Architecture: Engineered a production-grade RESTful API for 40+ endpoints, utilizing Nginx load balancing with least_conn to distribute traffic across horizontal backend instances. 
 - High-Performance Caching: Implemented Redis Cache-Aside strategies and a decoupled view-buffering system with Cron-based synchronization to eliminate database write-locks and minimize latency.
