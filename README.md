@@ -38,15 +38,16 @@ Custom conditional UNet with learned color embeddings
 - **Tech Stack:** PyTorch, OpenCV, Vision Models  
 
 ---
-### [Micrograd Implementation](https://github.com/jagapathi20/micrograd-implementation)
-**Neural Networks From Scratch (Autograd Engine)**  
-- Custom backward pass + MLP training  
-- 95% accuracy on breast cancer dataset  
-- **Tech Stack:** Python, NumPy  
+### [Micrograd Implementation](https://github.com/jagapathi20/micro_grad)
+**Neural Networks from Scratch with Automatic Differentiation**
+- Complete autograd engine implementation with scalar-valued backward pass
+- Built MLPs from ground up achieving **95% accuracy** on breast cancer dataset  
+- Educational codebase perfect for understanding backpropagation fundamentals
+- **Tech Stack**: Python, NumPy, Automatic Differentiation, Neural Networks
 
 ---
 
-###  [Advanced RAG Techniques](https://github.com/jagapathi20/advanced-rag-techniques)
+###  [Advanced RAG Techniques](https://github.com/jagapathi20/Advanced-RAG-Techniques-Implementation)
 **Multi-strategy RAG Engine**  
 - Multi-query, RAG Fusion, HyDE, RAPTOR, CRAG  
 - Query routing + relevance grading + web fallback  
