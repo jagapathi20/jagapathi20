@@ -1,79 +1,138 @@
----
+#  Backend & Machine Learning Engineer
 
-#  **Backend and ML Engineer**
----
-
-# **Featured Projects**
-
-###  [YouTube Clone Backend API](https://github.com/jagapathi20/Youtube-Clone)
- 
-- Scalable Architecture: Engineered a production-grade RESTful API for 40+ endpoints, utilizing Nginx load balancing with least_conn to distribute traffic across horizontal backend instances. 
-- High-Performance Caching: Implemented Redis Cache-Aside strategies and a decoupled view-buffering system with Cron-based synchronization to eliminate database write-locks and minimize latency.
-- Database Optimization: Designed complex MongoDB aggregation pipelines and a Persistent Counter Pattern, optimizing subscriber count retrieval from $O(N)$ to $O(1)$ complexity.
-- Secure Auth & Media: Integrated JWT with token rotation and a scalable file upload system using Multer/Cloudinary to process and store 100+ MB media files.
-- Containerized Deployment: Orchestrated a microservices environment using Docker and Docker Compose to ensure environment parity and seamless horizontal scaling.  
-- **Tech Stack:** Node.js, Express.js, MongoDB, Redis, Nginx, Docker
+Building **scalable backend systems and ML-powered applications** with a focus on performance, distributed architecture, and production-ready deployments.
 
 ---
 
-###  [FastAPI Social Media API](https://github.com/jagapathi20/FastAPI-social-media-api)
-**Production-Ready Backend for Social Platform**  
-- REST API with user auth, posts, and voting  
-- JWT auth, Alembic migrations, modular routers  
-- >95% endpoint test coverage (Pytest)  
-- **Tech Stack:** FastAPI, PostgreSQL, SQLAlchemy, Pytest, Docker  
+# Featured Projects
 
----
-###  [ConditionalUNet Polygon Coloring](https://github.com/jagapathi20/ConditionalUNet_web_app)
-**End-to-End ML System (Training → Serving → Frontend)**  
-- Custom PyTorch UNet for polygon coloring  
-- FastAPI backend, Dockerized & deployed on AWS EC2  
-- Netlify frontend with drag-and-drop UI  
-- **Tech Stack:** PyTorch, FastAPI, Docker, AWS EC2, JavaScript  
+## [Scalable Video Streaming Platform Backend](https://github.com/jagapathi20/Youtube-Clone)
 
-###  [ConditionalUNet](https://github.com/jagapathi20/ConditionalUNet)
-Custom conditional UNet with learned color embeddings  
-- Built synthetic dataset generator  
-- Complete training pipeline  
-- **Tech Stack:** PyTorch, OpenCV, Vision Models  
+Production-grade backend inspired by YouTube, designed with **scalability, caching, and distributed processing patterns**.
 
----
-### [Micrograd Implementation](https://github.com/jagapathi20/micro_grad)
-**Neural Networks from Scratch with Automatic Differentiation**
-- Complete autograd engine implementation with scalar-valued backward pass
-- Built MLPs from ground up achieving **95% accuracy** on breast cancer dataset  
-- Educational codebase perfect for understanding backpropagation fundamentals
-- **Tech Stack**: Python, NumPy, Automatic Differentiation, Neural Networks
+### Key Features
+- **Scalable Architecture:** Engineered 40+ REST endpoints with **Nginx load balancing (`least_conn`)** distributing traffic across multiple Node.js instances.
+- **High-Performance Caching:** Implemented **Redis cache-aside strategy** and a **buffered view-count pipeline** synced via cron jobs to reduce database write load.
+- **Database Optimization:** Built complex **MongoDB aggregation pipelines** and implemented a **persistent counter pattern** reducing subscriber lookup from **O(N) → O(1)**.
+- **Secure Authentication & Media:** JWT authentication with token rotation and scalable media uploads using **Multer + Cloudinary**.
+- **Containerized Deployment:** Dockerized services enabling consistent environments and easy horizontal scaling.
+
+**Tech Stack**
+
+Node.js • Express.js • MongoDB • Redis • Nginx • Docker • Cloudinary
 
 ---
 
-###  [Advanced RAG Techniques](https://github.com/jagapathi20/Advanced-RAG-Techniques-Implementation)
-**Multi-strategy RAG Engine**  
-- Multi-query, RAG Fusion, HyDE, RAPTOR, CRAG  
-- Query routing + relevance grading + web fallback  
-- **Tech Stack:** LangChain, OpenAI, Vector DBs  
----
+## [Multi-Vendor Food Marketplace Backend](https://github.com/jagapathi20/Online-Market-Place)
 
-# **Technical Skills** 
+Scalable backend system supporting **multi-vendor ordering, geospatial restaurant discovery, and production deployment**.
 
-### **Machine Learning**
-• PyTorch • TensorFlow • OpenCV • scikit-learn • Langchain • LangGraph
-### **Backend**
-FastAPI • Express.js • Node.js • RESTful APIs 
-### **Databases**
-• PostgreSQL • MongoDb • SQLite • MySQL
-### **Programming & Tools**
-Python • C/C++ • SQL • JavaScript • HTML • CSS
-### **Cloud & DevOps**
-• AWS(EC2) • Docker • GitHub Actions
+### Key Features
+- **Multi-Tenant Platform:** Vendor onboarding, menu management, cart operations, and distributed order processing.
+- **Geospatial Search:** Implemented **GeoDjango + PostGIS queries** for radius-based restaurant discovery.
+- **Production Infrastructure:** Containerized with **Docker + Nginx + Gunicorn**, deployed on **GCP VM with CI/CD via GitHub Actions**.
+- **Payment Integration:** End-to-end order lifecycle with Razorpay payment processing.
+
+**Tech Stack**
+
+Django • PostgreSQL/PostGIS • Docker • Nginx • Gunicorn • GCP • GitHub Actions
 
 ---
 
-#  **GitHub Activity Graph**
+## [FastAPI Social Media API](https://github.com/jagapathi20/FastAPI-social-media-api)
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jagapathi20&theme=react-dark&hide_border=true" />
-</p>
+Production-ready backend for a social platform.
+
+- JWT authentication with modular API architecture
+- Database migrations with Alembic
+- **>95% endpoint test coverage with Pytest**
+
+**Tech Stack**
+
+FastAPI • PostgreSQL • SQLAlchemy • Pytest • Docker
 
 ---
 
+## [ConditionalUNet Polygon Coloring](https://github.com/jagapathi20/ConditionalUNet_web_app)
+
+End-to-end ML system from **training → serving → frontend deployment**.
+
+- Custom **PyTorch UNet** for automatic polygon coloring
+- FastAPI inference API deployed on **AWS EC2**
+- Netlify frontend with drag-and-drop UI
+
+**Tech Stack**
+
+PyTorch • FastAPI • Docker • AWS EC2 • JavaScript
+
+---
+
+## [ConditionalUNet](https://github.com/jagapathi20/ConditionalUNet)
+
+Custom conditional UNet architecture with learned color embeddings.
+
+- Synthetic dataset generator
+- End-to-end training pipeline
+- Vision model experimentation
+
+**Tech Stack**
+
+PyTorch • OpenCV • Computer Vision
+
+---
+
+## [Micrograd Implementation](https://github.com/jagapathi20/micro_grad)
+
+Educational implementation of neural networks from scratch.
+
+- Built an **automatic differentiation engine**
+- Implemented MLP achieving **95% accuracy** on the Breast Cancer dataset
+
+**Tech Stack**
+
+Python • NumPy • Automatic Differentiation • Neural Networks
+
+---
+
+## [Advanced RAG Techniques](https://github.com/jagapathi20/Advanced-RAG-Techniques-Implementation)
+
+Implementation of advanced Retrieval-Augmented Generation pipelines.
+
+- Multi-query RAG, RAG Fusion, HyDE, RAPTOR, CRAG
+- Query routing and relevance grading with web fallback
+
+**Tech Stack**
+
+LangChain • OpenAI • Vector Databases
+
+---
+
+# Technical Skills
+
+### Backend Development
+Django • FastAPI • Node.js • Express.js • REST APIs
+
+### Databases
+PostgreSQL • PostGIS • MongoDB • MySQL • SQLite • Redis
+
+### Machine Learning
+PyTorch • TensorFlow • OpenCV • scikit-learn • LangChain • LangGraph
+
+### Programming
+Python • JavaScript • C/C++ • SQL
+
+### Cloud & DevOps
+Docker • GitHub Actions • AWS EC2 • Google Cloud Platform • Nginx
+
+---
+
+# Competitive Programming
+
+- **LeetCode Knight — Top 4.99% globally**
+
+---
+
+# Connect With Me
+
+- GitHub: https://github.com/jagapathi20
+- LinkedIn: (add your link here)
