@@ -129,10 +129,3 @@ Docker • GitHub Actions • AWS EC2 • Google Cloud Platform • Nginx
 # Competitive Programming
 
 - **LeetCode Knight — Top 4.99% globally**
-
----
-
-# Connect With Me
-
-- GitHub: https://github.com/jagapathi20
-- LinkedIn: (add your link here)
